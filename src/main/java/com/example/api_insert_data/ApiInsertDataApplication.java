@@ -8,6 +8,7 @@ public class ApiInsertDataApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiInsertDataApplication.class, args);
+
 	}
 
 }
